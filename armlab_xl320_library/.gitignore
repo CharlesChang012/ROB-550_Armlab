@@ -1,0 +1,4 @@
+src/__pycache__/config.cpython-310.pyc
+src/armlab_xl320_library.egg-info/*
+src/armlab_xl320_library/__pycache__/*
+build

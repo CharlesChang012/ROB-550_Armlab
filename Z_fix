@@ -1,0 +1,5 @@
+1. Turn scale_factor=1
+
+2. Use your own homography
+
+3. Don't overwrite anything, make new variables!
